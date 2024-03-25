@@ -4,7 +4,7 @@
 
 💻 I'm currently a PhD student in Statistics at Peking University. 
 
-🧐 My research interest is in finding the latent structure (factor) in high-dimensional data and unstructured data analysis.
+🧐 My research interest is in finding the latent structure in high-dimensional data and unstructured data analysis.
 
 📫 How to reach me: jxshi@gmail.com
 
