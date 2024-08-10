@@ -6,7 +6,7 @@
 
 🧐 My research interest is in finding the latent structure in high-dimensional data and unstructured data analysis.
 
-📫 How to reach me: jxshi@gmail.com
+📫 How to reach me: jxshi0stat@gmail.com
 
 👧 Keep going! 
 <!--
