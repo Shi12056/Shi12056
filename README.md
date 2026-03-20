@@ -2,7 +2,7 @@
 # Little Lion 
 👋 Hi, I'm Jiaxin Shi. You can call me little lion~🦁 
 
-💻 I'm currently a PhD student in Statistics at Peking University. 
+💻 I'm currently a Ph.D. Candidate in Statistics at Peking University. 
 
 🧐 My research interest is in finding the latent structure in high-dimensional data and unstructured data analysis.
 
